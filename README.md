@@ -1,4 +1,15 @@
 # Squad04
 # HUB FGA Inovação
 
-Bem-vindo ao repositório do HUB FGA Inovação! Este é um grupo de estudantes da Faculdade do Gama (FGA) da Universidade de Brasília (UnB), com o objetivo de promover a inovação e o empreendedorismo na comunidade acadêmica e além.
+Este repositório é destinado ao grupo de desenvolvimento do projeto HUB FGA Inovação, que tem como objetivo criar um espaço para incentivar e promover a inovação na comunidade da Faculdade do Gama da Universidade de Brasília (UnB).
+
+# Equipe
+
+O grupo responsável pelo desenvolvimento do projeto HUB FGA Inovação é composto pelos seguintes membros:
+
+- julia Vitoria
+- Nicolas Bomfim
+- Pedro Henrique
+- Luis Eduardo
+- Marina Márcia
+- João Lucas

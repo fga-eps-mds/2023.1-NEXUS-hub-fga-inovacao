@@ -1,4 +1,4 @@
-# Squad04
+
 # HUB FGA Inovação
 
 Este repositório é destinado ao grupo de desenvolvimento do projeto HUB FGA Inovação, que tem como objetivo criar um espaço para incentivar e promover a inovação na comunidade da Faculdade do Gama da Universidade de Brasília (UnB).

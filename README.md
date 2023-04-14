@@ -7,7 +7,7 @@ Este repositório é destinado ao grupo de desenvolvimento do projeto HUB FGA In
 
 O grupo responsável pelo desenvolvimento do projeto HUB FGA Inovação é composto pelos seguintes membros:
 
-- julia Vitoria
+- Julia Vitoria
 - Nicolas Bomfim
 - Pedro Henrique
 - Luis Eduardo

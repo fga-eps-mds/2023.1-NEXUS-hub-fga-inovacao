@@ -12,4 +12,4 @@ O grupo responsável pelo desenvolvimento do projeto HUB FGA Inovação é compo
 - Pedro Henrique
 - Luis Eduardo  
 - Marina Márcia
-- João Lucas
+- João Lucas 

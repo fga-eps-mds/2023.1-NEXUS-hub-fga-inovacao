@@ -44,7 +44,7 @@
         <img src="img/equipe/otavio.jpg" alt="..." class="img-time">
     </div>
     <div class="text2">
-        <h3 class="title1">...</h1>
+        <h3 class="title1">João</h1>
         <p>https://github.com/knz13</p>
     </div>
 </div>

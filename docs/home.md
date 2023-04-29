@@ -10,42 +10,43 @@
     </div>
     <div class="text1">
         <h3 class="title1">Julia Vitoria</h1>
-        <p>https://github.com/analeticiaa</p>
+        <p>https://github.com/juhvitoria4</p>
     </div>
     <div class="image2">
         <img src="img/equipe/arthur.jpg" alt="..." class="img-time">
     </div>
     <div class="text2">
         <h3 class="title1">Nicolas</h1>
-        <p>https://github.com/arthur-augusto</p>
+        <p>https://github.com/NickGehjk</p>
     </div>
     <div class="image1">
         <img src="img/equipe/brunna.jpg" alt="..." class="img-time">
     </div>
     <div class="text1">
         <h3 class="title1">Marina Marcia</h1>
-        <p>https://github.com/brunna-martins</p>
+        <p>https://github.com/The-Boss-Nina</p>
     </div>
     <div class="image2">
         <img src="img/equipe/caetano.jpg" alt="..." class="img-time">
     </div>
     <div class="text2">
         <h3 class="title1">Luis Eduardo</h1>
-        <p>https://github.com/caeslucio</p>
+        <p>https://github.com/LuisMiranda10</p>
     </div>
     <div class="image1">
         <img src="img/equipe/larissa.jpg" alt="..." class="img-time">
     </div>
     <div class="text1">
         <h3 class="title1">Pedro</h1>
-        <p>https://github.com/larigs</p>
+        <p>https://github.com/pedro-hsf</p>
     </div>
     <div class="image2">
         <img src="img/equipe/otavio.jpg" alt="..." class="img-time">
     </div>
     <div class="text2">
         <h3 class="title1">João</h1>
-        <p>https://github.com/knz13</p>
+        <p>https://github.com/Jlmsousa
+</p>
     </div>
 </div>
 </div>

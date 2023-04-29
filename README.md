@@ -40,4 +40,13 @@ Antes de começar a utilizar a plataforma Nexus Inovação, é necessário possu
  - HTML5: linguagem de marcação utilizada para estruturar e exibir conteúdo na web
  - CSS3: linguagem de estilos utilizada para definir a aparência dos elementos HTML na web
  - JavaScript: linguagem de programação utilizada para adicionar interatividade e dinamismo a páginas web
+ 
+ # Contribuidores
+ - @juhvitoria4
+ - @pedro-hsf
+ - @Jlmsousa
+ - @LuisMiranda10
+ - @NickGehjk
+ - @The-Boss-Nina
+ 
 

@@ -1,5 +1,4 @@
-<img src="img/Logo2.png" width="350" height="350">
-<h2 class = title2>Nexus.inv</h2>
+<img src="img/logos/nexus2.png" width="350" height="350">
 
 [Conheça o projeto](home.md)
 

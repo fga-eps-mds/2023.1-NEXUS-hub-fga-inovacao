@@ -1,52 +1,43 @@
-<div class="body">
-    <h1 class="title">NEXUS inovação</h1>
-    <p> Bem-vindo ao Nexus Inovação, o Hub de Inovação da FGA! Aqui, nosso objetivo é promover a colaboração e a inovação entre os alunos da Faculdade do Gama da Universidade de Brasília, em uma plataforma online que permite o compartilhamento de ideias, projetos, recursos e conhecimentos relacionados à tecnologia e inovação.  </p>
 
-<h2 class="title">Contribuidores</h1>
+# NEXUS inovação
 
-<div class="wrapper">
-    <div class="image1">
-        <img src="img/foto1.jpeg" alt="..." class="img-time">
+Bem-vindo ao Nexus Inovação, o Hub de Inovação da FGA! Aqui, nosso objetivo é promover a colaboração e a inovação entre os alunos da Faculdade do Gama da Universidade de Brasília, em uma plataforma online que permite o compartilhamento de ideias, projetos, recursos e conhecimentos relacionados à tecnologia e inovação. Com o Nexus Inovação, você terá acesso a uma ampla variedade de atividades, como palestras, workshops, mentorias e networking, que vão ajudá-lo a desenvolver suas ideias e transformá-las em projetos concretos e de sucesso. Além disso, nossa plataforma é um ambiente colaborativo e propício para a criação de projetos multidisciplinares e para o estabelecimento de parcerias estratégicas entre empresas, universidade e comunidade. 
+
+</br></br></br>
+# Equipe
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-3">
+
+![foto](https://avatars.githubusercontent.com/u/115602385?v=4)
+        <h3 class="fw-normal">Julia Vitoria (Product Owner)</h3>
+        </div>  
+        <div class="col-lg-3">
+
+![foto](https://avatars.githubusercontent.com/u/108106812?v=4)
+        <h3 class="fw-normal">Nicolas Bomfim (Scrum Master)</h3>
+        </div>  
+        <div class="col-lg-3">
+
+![foto](https://avatars.githubusercontent.com/u/97897684?v=4)
+        <h3 class="fw-normal">Pedro Henrique (desenvolvedor)</h3>
+        </div>  
+        <div class="col-lg-3">
+
+![foto](https://avatars.githubusercontent.com/u/58699832?v=4)
+        <h3 class="fw-normal">Marina Márcia (desenvolvedora) </h3>
+        </div>  
+        <div class="col-lg-3">
+
+![foto](https://avatars.githubusercontent.com/u/88345660?v=4)
+        <h3 class="fw-normal">João Lucas (desenvolvedor) </h3>
+        </div>   
+        <div class="col-lg-3">
+
+![foto](https://avatars.githubusercontent.com/u/107730105?v=4)
+        <h3 class="fw-normal">luis Eduardo (desenvolvedor) </h3>
+        </div>
+        <div class="col-lg-3">          
     </div>
-    <div class="text1">
-        <h3 class="title1">Julia Vitoria (Product Owner)</h1>
-        <p>https://github.com/juhvitoria4</p>
-    </div>
-    <div class="image2">
-        <img src="img/equipe/arthur.jpg" alt="..." class="img-time">
-    </div>
-    <div class="text2">
-        <h3 class="title1">Nicolas Bomfim (Scrum Master)</h1>
-        <p>https://github.com/NickGehjk</p>
-    </div>
-    <div class="image1">
-        <img src="img/equipe/brunna.jpg" alt="..." class="img-time">
-    </div>
-    <div class="text1">
-        <h3 class="title1">Marina Marcia (Desenvolvedora)</h1>
-        <p>https://github.com/The-Boss-Nina</p>
-    </div>
-    <div class="image2">
-        <img src="img/equipe/caetano.jpg" alt="..." class="img-time">
-    </div>
-    <div class="text2">
-        <h3 class="title1">Luis Eduardo (Desenvolvedor)</h1>
-        <p>https://github.com/LuisMiranda10</p>
-    </div>
-    <div class="image1">
-        <img src="img/equipe/larissa.jpg" alt="..." class="img-time">
-    </div>
-    <div class="text1">
-        <h3 class="title1">Pedro (Desenvolvedor)</h1>
-        <p>https://github.com/pedro-hsf</p>
-    </div>
-    <div class="image2">
-        <img src="img/foto2.png" alt="..." class="img-time">
-    </div>
-    <div class="text2">
-        <h3 class="title1">João (Desenvolvedor)</h1>
-        <p>https://github.com/Jlmsousa
-</p>
-    </div>
-</div>
 </div>

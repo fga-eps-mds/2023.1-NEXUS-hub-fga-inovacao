@@ -1,0 +1,61 @@
+html, body, .capa{
+	height: 100%;
+	overflow: auto;
+}
+
+body{
+	background: url("images/ruido.png"),
+				/*url("images/fundo4.jpg"),*/
+				linear-gradient(50deg, #7e2bcc, #8c8792);
+	background-attachment: fixed;
+	overflow-x: hidden;
+}
+
+.img-logo{
+	height: 50px;
+	width: 70px;
+	display: block;
+	background: url("images/logo.png") no-repeat;
+	background-size: contain;
+	color: transparent;
+}
+
+/* */
+
+#titulo{
+	text-align: center;
+	font-size: 40px;
+}
+
+#teste{
+	/*background: white;*/
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.teste{
+	padding: 10px 10px 0px;
+	/* borda superior/horizontal/inferior */
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: #000000;
+}
+
+#teste h2{
+	font-size: 25px;
+}
+
+#teste p{
+	color: white;
+	font-size: 16px;
+}
+
+#texto a{
+	color: black;
+}
+
+/*#texto a:hover{
+	background-color: white;
+	color: black;
+}*/

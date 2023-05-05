@@ -1,0 +1,262 @@
+html, body, .capa{
+	height: 100%;
+	overflow: auto;
+}
+
+body{
+	background: url("images/ruido.png"),
+				/*url("images/fundo3.jpg"),*/
+				linear-gradient(50deg, #330475, #ac2bcc);
+	background-attachment: fixed;
+	overflow-x: hidden;
+}
+
+.img-logo{
+	height: 50px;
+	width: 70px;
+	display: block;
+	background: url("images/nexus.png") no-repeat;
+	background-size: contain;
+	color: transparent;
+}
+
+nav.navbar-transparent{
+	padding: 15px 0px;
+	background: rgba(255, 255, 255, 0.8);
+	border: none;
+}
+
+.navbar-brand{
+	padding: 5px 15px;
+}
+
+.divisor{
+	width: 1px;
+	height: 16px;
+	background: rgb(0, 0, 0);
+	margin: 16px 10px;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: #000000;
+}
+
+footer .nav a{
+	color: #ac2bcc;
+}
+
+/*.navbar-inverse .navbar-nav>li>a:hover, footer .nav a:hover{
+	color: #ffffff;
+	background: none;
+}*/
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: #ac2bcc;
+	background: none;
+}
+
+footer .nav a:hover{
+	color: #ffffff;
+}
+
+
+/* */
+
+.capa{
+	display: table;
+	width: 100%;
+}
+
+.texto-capa{
+	text-align: center;
+	color: white;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+/* */
+
+.btn-custom{
+	border-radius: 50px;
+	text-transform: uppercase;
+	transition: background 0.4s, color 0.4s;
+}
+
+#btn-um{
+	color: black;
+	background: #a39aa6;
+}
+
+#btn-um:hover{
+	background-color: rgb(0, 0, 0);
+	color: #a39aa6;
+}
+
+#btn-dois{
+	color: #a39aa6;
+	background-color: transparent;
+	border: 2px solid rgb(0, 0, 0);
+}
+
+#btn-dois:hover{
+	background-color: rgb(0, 0, 0);
+	color: #a39aa6;
+}
+
+/* */
+
+
+#explicacao{
+	background: rgb(0, 0, 0);
+	padding-top: 20px;
+	padding-bottom: 5px;
+	text-align: justify;
+}
+
+.explicacao{
+	padding: 20px 5px 20px 10px;
+	/* borda superior/direita/inferior/esquerda */
+}
+
+/*
+   Apply to all four sides 
+padding: 1em;
+
+   top and bottom | left and right 
+padding: 5% 10%;
+
+   top | left and right | bottom 
+padding: 1em 2em 2em;
+
+   top | right | bottom | left 
+padding: 5px 1em 0 2em;
+
+   Global values 
+padding: inherit;
+padding: initial;
+padding: revert;
+padding: revert-layer;
+padding: unset;
+*/
+
+/* */
+
+#carrossel{
+	padding-top: 20px;
+	padding-bottom: 5px;
+	color: rgb(255, 255, 255);
+	text-align: justify;
+}
+
+.carrossel{
+	padding: 20px 5px 20px 10px;
+	/* borda superior/direita/inferior/esquerda */
+}
+
+.rotacionar{
+	/*transform: rotate(40deg);*/
+	padding: 100px 70px;
+}
+
+/* */
+
+footer{
+	background: #000;
+	padding: 50px 0px 50px 0px;
+	position: relative;
+}
+
+#nomeDoSite{
+	font-weight: 900;
+	letter-spacing: -0.05em;
+	margin-bottom: 50px;
+	font-size: 100px;
+	color: white;
+}
+
+#frase{
+	font-weight: 700;
+	letter-spacing: -0.04em;
+	font-size: 50px;
+	color: white;
+}
+
+#slogan{
+	font-weight: 700;
+	letter-spacing: -0.04em;
+	font-size: 40px;
+	color: rgb(255, 255, 255);
+}
+
+#rodape h4{
+	color: #ffffff;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+#explicacao h2{
+	color: #ac2bcc;
+}
+
+#explicacao h3{
+	color: #ffffff;
+}
+
+#carrossel h2{
+	color: #000000;
+}
+
+#carrossel p{
+	color: rgb(255, 255, 255);
+	font-size: 1.5em;
+}
+
+#explicacao p{
+	color: rgb(255, 255, 255);
+	font-size: 1.5em;
+	/*font-family: 'Lucida Sans';*/
+}
+
+#explicacao li{
+	color: rgb(255, 255, 255);
+	font-size: 1em;
+	/*font-family: 'Lucida Sans';*/
+}
+
+
+
+/* 
+
+#teste{
+	/*background: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.teste{
+	padding: 10px 10px 0px;
+	/* borda superior/horizontal/inferior 
+}
+
+#teste h1{
+	color: white;
+}
+
+#teste h2,#teste h4{
+	color: red;
+}
+
+#teste p, #teste h3{
+	color: white;
+}
+
+#teste a{
+	color: blue;
+	text-decoration: none;
+}
+
+#teste a:hover{
+	background-color: white;
+	color: black;
+}
+*/

@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/fga-eps-mds/2023.1-NEXUS-hub-fga-inovacao/blob/main/vis%C3%A3o%20de%20produto/nexus.png" height="400px" width="400px"></img>
+</div>
+
 
 # Nexus Inovação
 

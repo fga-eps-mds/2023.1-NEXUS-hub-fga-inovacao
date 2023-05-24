@@ -69,7 +69,7 @@ Zenit = obter_informacoes(divZenit, classZenit, indiceZenit, titulo, link):
 #Engrena
 divEngrena = 'div'
 classEngrena = 'article-body article-body-text-article'
-indiceEngrena = ''
+indiceEngrena = 11
 titulo = 'Engrena'
 link = ''
 

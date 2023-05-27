@@ -1,10 +1,10 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](README.md)
-- [Iniciativas](iniciativas.md)
-- [Projetos](projetos.md)
-- [Empresas](empresas.md)
-- [Competências](competencias.md)
+- [- Home](README.md)
+- [- Iniciativas](iniciativas.md)
+- [- Projetos](projetos.md)
+- [- Empresas](empresas.md)
+- [- Competências](competencias.md)
 
 <br>
 

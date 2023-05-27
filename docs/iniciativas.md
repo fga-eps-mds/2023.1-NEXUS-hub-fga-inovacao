@@ -5,29 +5,8 @@
 <meta charset="UTF-8">
 <title>Iniciativas UnB FGA</title>
 
-<style>
-.container {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
-grid-gap: 30px;
-}
-.explicacao{
-font-size: 20px;
-text-align: justify;
-}
-.initiative {
-background-color: #f2f2f2;
-padding: 20px;
-border-radius: 8px;
-color: purple;
-text-align: justify;
-}
-.centered-button {
-display: block;
-margin: 0 auto;
-}
+<link rel="stylesheet" href="./css/paginas.css">
 
-</style>
 </head>
 
 <body>
@@ -71,5 +50,6 @@ instituição são:
 <p>A FGA incentiva a realização de projetos de pesquisa e inovação, tanto por professores quanto por estudantes. Esses projetos visam o desenvolvimento de novas tecnologias, soluções inovadoras e contribuições científicas nas áreas de engenharia e tecnologia.</p>
 </div>
 </div>
+
 </body>
 </html>

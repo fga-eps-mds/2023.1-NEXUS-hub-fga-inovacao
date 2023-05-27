@@ -1,0 +1,23 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+    grid-gap: 30px;
+}
+
+.explicacao{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.initiative {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 8px;
+    color: purple;
+    text-align: justify;
+}
+
+.centered-button {
+    display: block;
+    margin: 0 auto;
+}

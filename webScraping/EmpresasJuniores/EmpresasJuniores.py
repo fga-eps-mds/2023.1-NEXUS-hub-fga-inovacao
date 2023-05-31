@@ -11,7 +11,7 @@ def obter_informacoes(div, clas, indice, titulo, link):
     soup = BeautifulSoup(site.content, 'html.parser')
 
     empresasJuniores = soup.find(div , clas)
-    paragrafos = equipe.find_all('p')
+    paragrafos = empresasJuniores.find_all('p')
 
     # Verifica se o índice é válido
     if indice < len(paragrafos):
@@ -46,7 +46,7 @@ indiceOrc = 5
 titulo = 'Orcestra'  
 link = ''
 
-Orc = obter_informacoes(divOrc, classOrc, indiceOrc, titulo, link):
+Orc = obter_informacoes(divOrc, classOrc, indiceOrc, titulo, link)
 
 #Matriz Energia
 divMatriz = 'div'
@@ -55,7 +55,7 @@ indiceMatriz = 7
 titulo = 'Matriz Energia'
 link = ''
 
-Matriz = obter_informacoes(divMatriz, classMatriz, indiceMatriz, titulo, link):
+Matriz = obter_informacoes(divMatriz, classMatriz, indiceMatriz, titulo, link)
 
 #Zenit Aerospace
 divZenit = 'div'
@@ -64,7 +64,7 @@ indiceZenit = 9
 titulo = 'Zenit Aerospace'
 link = ''
 
-Zenit = obter_informacoes(divZenit, classZenit, indiceZenit, titulo, link):
+Zenit = obter_informacoes(divZenit, classZenit, indiceZenit, titulo, link)
 
 #Engrena
 divEngrena = 'div'
@@ -73,7 +73,7 @@ indiceEngrena = 11
 titulo = 'Engrena'
 link = ''
 
-Engrena = obter_informacoes(divEngrena, classEngrena, indiceEngrena, titulo, link):
+Engrena = obter_informacoes(divEngrena, classEngrena, indiceEngrena, titulo, link)
 
 # Nome do arquivo CSV
 nome_arquivo = 'EJs.csv'
@@ -81,12 +81,14 @@ nome_arquivo = 'EJs.csv'
 # Abre o arquivo CSV para escrita
 with open(nome_arquivo, 'w', newline='', encoding='utf-8') as arquivo_csv:
     writer = csv.writer(arquivo_csv)
-    
-    # Itera sobre as divs encontradas
-    for lab in labs:
-        texto = lab.get_text(strip=True)
         
-        # Escreve o texto da div em uma nova linha no arquivo CSV
-        writer.writerow([texto])
+    # Escreve o texto da div em uma nova linha no arquivo CSV
+    writer.writerow([Introdução])
+    writer.writerow([Eletronjun])
+    writer.writerow([Orc])
+    writer.writerow([Matriz])
+    writer.writerow([Zenit])
+    writer.writerow([Engrena])
+    
 
 print(f'Dados armazenados no arquivo CSV: {nome_arquivo}')

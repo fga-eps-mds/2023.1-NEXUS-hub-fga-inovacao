@@ -3,8 +3,9 @@
 - [- Home](README.md)
 - [- Iniciativas](iniciativas.md)
 - [- Projetos](projetos.md)
-- [- Empresas](empresas.md)
-- [- Competências](competencias.md)
+- [- Empresas Juniores](empresas.md)
+- [- Equipes de Competição](equipes.md)
+- [- Competencias](competencias.md)
 
 <br>
 

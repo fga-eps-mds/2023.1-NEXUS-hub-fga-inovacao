@@ -8,7 +8,7 @@ soup = BeautifulSoup(site.content, 'html.parser')
 
 # Dados para a tabela
 dados = [
-    ['Nome', 'Imagem', 'Pagina', 'Projetos de pesquisa', 'Projetos de extensão', 'Disciplinas ministradas']
+    ['Nome', 'Imagem', 'Pagina', 'Projetos de pesquisa', 'Projetos de extensao', 'Disciplinas ministradas','Disciplinas pos']
 ]
 
 #Função de conserto de strings
@@ -67,7 +67,7 @@ with open(nome_arquivo, 'w', newline='') as arquivo_csv:
             pagina_pesquisa = conserto_strings(pagina_pesquisa) 
             print(pagina_pesquisa)
 
-            # Link da pagina de atividades de extensão
+            # Link da pagina de atividades de extensao
             pagina_extensao = barra_professor.find('li',class_='projetos_extensao')
             pagina_extensao = pagina_extensao.find('a', href=True)['href']
             # Correção de links    
@@ -92,7 +92,7 @@ with open(nome_arquivo, 'w', newline='') as arquivo_csv:
 
             print(projetos_pesquisa)
 
-            # Scraping da pagina de atividades de extensão
+            # Scraping da pagina de atividades de extensao
             url4 = pagina_extensao
             site4 = requests.get(url4)
             soup = BeautifulSoup(site4.content, 'html.parser')
@@ -119,8 +119,14 @@ with open(nome_arquivo, 'w', newline='') as arquivo_csv:
             disciplinas_graduacao = disciplinas_graduacao.replace("\t"," ").replace("\r", " ").replace("\n"," ")
 
             print(disciplinas_graduacao)
+
+            disciplinas_pos = soup.find('div',{'id':'turmas-pos'})
+            disciplinas_pos = disciplinas_pos.get_text()
+            disciplinas_pos = disciplinas_pos.replace("\t"," ").replace("\r", " ").replace("\n"," ")
+
+            print(disciplinas_pos)
             print('\n')
 
-            linha= nome, imagens, pagina, projetos_pesquisa, projetos_coordenador, projetos_participa, disciplinas_graduacao
+            linha= nome, imagens, pagina, projetos_pesquisa, projetos_coordenador, projetos_participa, disciplinas_graduacao, disciplinas_pos
             escritor_csv.writerow(linha)
 print(f'Dados armazenados no arquivo CSV: {nome_arquivo}')

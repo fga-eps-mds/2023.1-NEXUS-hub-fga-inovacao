@@ -14,15 +14,16 @@
 
 <h1></h1>
 
-<div class="image1">
-	<img src="https://pbs.twimg.com/media/Eft_8JTXsAA9ZjD?format=jpg&name=small" alt="..." class="img-time" width="400" height="250">
+
+<div class="image-container">
+    <div class="image1">
+        <img src="https://pbs.twimg.com/media/Eft_8JTXsAA9ZjD?format=jpg&name=small" alt="..." class="img-time" width="400" height="250">
+    </div>
+    <div class="image2">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Campus_da_UnB_no_Gama_%28FGA%29_completa_10_anos_%2839135873690%29.jpg" alt="..." class="img-time" width="400" height="250">
+    </div>
 </div>
 
-
-<div class="image2">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Campus_da_UnB_no_Gama_%28FGA%29_completa_10_anos_%2839135873690%29.jpg" alt="..." 
-	class="img-time" width="400" height="250">
-</div>
 
 <br>
 <h1></h1>

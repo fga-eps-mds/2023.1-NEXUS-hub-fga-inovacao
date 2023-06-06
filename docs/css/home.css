@@ -50,3 +50,9 @@
 .sidebar>h1 a img {
   max-width: 60%;
 }
+
+.image-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px;
+}

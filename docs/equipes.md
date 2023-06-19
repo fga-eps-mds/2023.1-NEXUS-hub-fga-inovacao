@@ -16,31 +16,47 @@
 
 <div class="explicacao">
 <p></p>
+
 </div>
 
 <div class="square-text">
 <h2>1. </h2>
 <p></p>
+<a href="http://127.0.0.1:5500/test/index.html#/README">
+<button class="centered-button">Saiba mais</button>
+</a>
 </div>
 
 <div class="square-text">
 <h2>2. </h2>
 <p></p>
+<a href="http://127.0.0.1:5500/test/index.html#/README">
+<button class="centered-button">Saiba mais</button>
+</a>
 </div>
 
 <div class="square-text">
 <h2>3. </h2>
 <p></p>
+<a href="http://127.0.0.1:5500/test/index.html#/README">
+<button class="centered-button">Saiba mais</button>
+</a>
 </div>
 
 <div class="square-text">
 <h2>4. </h2>
 <p></p>
+<a href="http://127.0.0.1:5500/test/index.html#/README">
+<button class="centered-button">Saiba mais</button>
+</a>
 </div>
 
 <div class="square-text">
 <h2>5. </h2>
 <p></p>
+<a href="http://127.0.0.1:5500/test/index.html#/README">
+<button class="centered-button">Saiba mais</button>
+</a>
 </div>
 </div>
 

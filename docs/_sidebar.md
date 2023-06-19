@@ -1,11 +1,11 @@
 <!-- docs/_sidebar.md -->
 
-- [ Home](README.md)
-- [ Iniciativas](iniciativas.md)
-- [ Projetos](projetos.md)
-- [ Empresas Juniores](empresas.md)
-- [ Equipes de Competição](equipes.md)
-- [ Competencias](competencias.md)
+- [Home](README.md)
+- [Iniciativas](iniciativas.md)
+- [Projetos](projetos.md)
+- [Empresas Juniores](empresas.md)
+- [Equipes de Competição](equipes.md)
+- [Competências](competencias.md)
 
 <br>
 

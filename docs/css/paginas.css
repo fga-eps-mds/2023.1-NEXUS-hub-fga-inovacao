@@ -23,6 +23,10 @@
     border-radius: 10px;
 }
 
+.centered-button:hover{
+    background-color: #c354d6;
+}
+
 a:hover{
     text-decoration: none;
 }

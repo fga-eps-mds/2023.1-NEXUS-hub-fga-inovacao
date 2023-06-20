@@ -44,7 +44,7 @@
 </div>
 
 <div class="square-text">
-<h2>4. Equipe de Robótica Aérea(EDRA)</h2>
+<h2>4. Equipe de Robótica Aérea (EDRA)</h2>
 <p>A Equipe de Robótica Aérea (EDRA) da Universidade de Brasília (UnB) é uma equipe focada no desenvolvimento de micro veículos aéreos, além de elaborar projetos conceituais de aeronaves de voo vertical. O objetivo da EDRA é desenvolver tecnologias e integrar os conhecimentos adquiridos em teoria nas salas aula com a prática para participar de eventos que aprimorem a capacidade de desenvolvimento técnico de cada membro. Atualmente, o foco central da Equipe está direcionado ao estudo de drones, desde o processo de construção até às mais diversas aplicações tecnológicas.</p>
 <a href="https://www.instagram.com/edraunb/">
 <button class="centered-button">Saiba mais</button>

@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Laboratório UnB FGA</title>
+<title>Laboratórios UnB FGA</title>
 
 <link rel="stylesheet" href="./css/paginas.css">
 
@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-<h1>Laboratório</h1>
+<h1>Laboratórios</h1>
 
 <div class="explicacao">
 <p>Como nosso Campus possui uma série de cursos voltados para as áreas de engenharia, é muito importante para uma melhor experiência dentro da graduação que seus alunos possuam uma experiência atuando em seus campos de interesse. Atualmente, possuímos os seguintes laboratórios:

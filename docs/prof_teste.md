@@ -25,6 +25,7 @@
 <button class="left-button">Página do Docente</button>
 </a>
 </div>
+
 <table>
   <tr>
     <th>Ano</th>

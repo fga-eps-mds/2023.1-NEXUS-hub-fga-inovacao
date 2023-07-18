@@ -7,7 +7,7 @@
 		em uma plataforma online que permite o compartilhamento de ideias, projetos, recursos e 
 		conhecimentos relacionados à tecnologia e inovação.</p>
 
-   <p>Com o Nexus Inovação, você terá acesso desenvolver suas ideias e transformá-las em projetos 
+   <p>Com o Nexus Inovação, você terá acesso para desenvolver suas ideias e transformá-las em projetos 
 	    concretos e de sucesso. Além disso, nossa plataforma é um ambiente colaborativo e propício 
 		para a criação de projetos multidisciplinares e para o estabelecimento de parcerias 
 		estratégicas entre empresas, universidade e comunidade.</p>

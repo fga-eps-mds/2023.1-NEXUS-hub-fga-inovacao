@@ -5,7 +5,7 @@
 - [Laboratórios](laboratorios.md)
 - [Empresas Juniores](empresas.md)
 - [Equipes de Competição](equipes.md)
-- [Professores](professores.md)
+- [Professores](professores_teste.md)
 
 <br>
 

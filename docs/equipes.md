@@ -36,7 +36,7 @@
 </div>
 
 <div class="square-text">
-<h2>3. UNBAJA</h2>
+<h2>3. UnBaja</h2>
 <p>O Projeto Baja SA Evisa o desenvolvimento de um protótipomonopostode competição fora de estrada, com o intuito de propiciar um desafio aos estudantes de engenharia, formar melhores profissionais para o mercado de trabalho. Trata-se de uma oportunidade de ver na prática conceitos de engenharia automotiva. São projetadossistema de suspensão, freios, estrutura, transmissão, feito acerto de motores e desenvolvimento ergonômico. Os alunos fazem procedimentos de testes e simulações numéricas conforme o regulamento proposto pelaSAE( Sociedadede Engenharia Automotiva). Participam das competições regionais edo provado nacional contra outras universidades públicas e privadas com intuito de ter a melhor classificação e competir fora do Brasil.</p>
 <a href="https://www.instagram.com/unbaja/">
 <button class="centered-button">Saiba mais</button>

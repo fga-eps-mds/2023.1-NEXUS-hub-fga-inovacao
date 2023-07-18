@@ -21,7 +21,7 @@
 </div>
 
 <div class="square-text">
-<h2>1. Eletronjun</h2>
+<h2>1. EletronJun</h2>
 <p>A EletronJun é a pioneira entre as empresas-juniores dos cursos de engenharia da Faculdade do Gama, sendo gerida por alunos da mesma. Foca-se em aliar a teoria estudada em sala de aula com práticas em diversas áreas tanto na própria engenharia em si quanto em gestão e admnistração, visando colaborar com a capacitação do estudante para atuar nas mais diversas áreas que estão disponíveis no mercado de trabalho.
 </p>
 <a href="https://eletronjun.com.br/">
@@ -30,7 +30,7 @@
 </div>
 
 <div class="square-text">
-<h2>2. Orcestra</h2>
+<h2>2. Orc'estra</h2>
 <p>A Orc'estra é uma empresa júnior, formada e gerida por alunos de Engenharia de Software da Universidade de Brasília - Faculdade Gama, criada para que esses alunos possam colocar em prática tudo o que aprendem em suas aulas, além de ter um primeiro contato com o mercado de trabalho.</p>
 <a href="https://orcestra.com.br/">
 <button class="centered-button">Saiba mais</button>

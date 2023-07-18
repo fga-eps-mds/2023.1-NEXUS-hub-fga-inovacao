@@ -22,8 +22,8 @@
 <div class="square-text">
 <h2>ALESSANDRO BORGES DE SOUSA OLIVEIRA (DOUTOR)</h2>
 <p>Projetos de Pesquisa:
-2023|Estudo de Implemento rodoviário e-sys com Power Extend Célula Combustivel etanol|Área de Pesquisa: Aproveitamento da Energia
-2022|Concepção de Laboratório de Testes para certificação de colete à prova de Balas |Área de Pesquisa: Dinâmica dos Corpos Rígidos, Elásticos e Plásticos
+2023 Estudo de Implemento rodoviário e-sys com Power Extend Célula Combustivel etanol Área de Pesquisa: Aproveitamento da Energia
+2022 Concepção de Laboratório de Testes para certificação de colete à prova de Balas  Área de Pesquisa: Dinâmica dos Corpos Rígidos, Elásticos e Plásticos
 <p>Projetos de Extensão:
 Até o momento o docente não possui.
 <p>Disciplinas Ministradas:

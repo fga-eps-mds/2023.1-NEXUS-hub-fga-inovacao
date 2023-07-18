@@ -2,8 +2,8 @@
 
 <h1 class="title">O que é o Nexus Inovação?</h1>
 
-   <p>Bem-vind@ ao Nexus Inovação, o Hub de Inovação da FGA! Aqui, nosso objetivo é promover a 
-		colaboração e a inovação entre os alun@s da Faculdade do Gama da Universidade de Brasília, 
+   <p>Bem-vindo ao Nexus Inovação, o Hub de Inovação da FGA! Aqui, nosso objetivo é promover a 
+		colaboração e a inovação entre os alunos da Faculdade do Gama da Universidade de Brasília, 
 		em uma plataforma on-line que permite o compartilhamento de ideias, projetos, recursos e 
 		conhecimentos relacionados à tecnologia e inovação.</p>
 
@@ -35,7 +35,7 @@
    <p>A FGA oferece cursos de graduação em Engenharia Aeroespacial, Engenharia Automotiva, 
 	    Engenharia de Energia, Engenharia de Software e Engenharia Eletrônica. Todos os cursos são 
 	    reconhecidos pelo Ministério da Educação e têm uma estrutura curricular avançada, com 
-		disciplinas teóricas e práticas que prepara @s alun@s para a realidade do mercado de 
+		disciplinas teóricas e práticas que prepara os alunos para a realidade do mercado de 
 		trabalho.</p>
 
 </div>

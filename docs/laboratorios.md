@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Laboratórios UnB FGA</title>
+<title>Laboratório UnB FGA</title>
 
 <link rel="stylesheet" href="./css/paginas.css">
 
@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-<h1>Laboratórios</h1>
+<h1>Laboratório</h1>
 
 <div class="explicacao">
 <p>Como nosso Campus possui uma série de cursos voltados para as áreas de engenharia, é muito importante para uma melhor experiência dentro da graduação que seus alunos possuam uma experiência atuando em seus campos de interesse. Atualmente, possuímos os seguintes laboratórios:
@@ -88,7 +88,7 @@
 </div>
 
 <div class="square-text">
-<h2>9. LEI</h2>
+<h2>. LEI</h2>
 <p>O LEI representa um núcleo de pesquisa, reconhecido como Grupo de Pesquisa pelo CNPq, com a missão de produzir, desenvolver e difundir conhecimentos em Engenharias com responsabilidade social, transparência, inovação, ética e multidisciplinaridade.</p>
 <a href="https://fga.unb.br/lei">
 <button class="centered-button">Saiba mais</button>

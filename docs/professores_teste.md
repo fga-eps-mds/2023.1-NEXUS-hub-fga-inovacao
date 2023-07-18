@@ -15,15 +15,15 @@
 <h1>Professores</h1>
     
 <div class="explicacao">
-<p>Como nosso Campus possui uma série de cursos voltados para as áreas de engenharia, é muito importante para uma melhor experiência dentro da graduação que seus alunos possuam uma experiência atuando em seus campos de interesse. Atualmente, possuímos os seguintes laboratórios:
+<p>A UNB FGA tem um corpo docente com domínio sobre as disciplinas de graduação e de pós-graduação ofertadas no campus, alguns de seus membros participam de projetos de pesquisa e de extensão contribuindo para a inovação.   :
 </p>
 </div>
     
 <div class="square-text">
 <h2>ALESSANDRO BORGES DE SOUSA OLIVEIRA (DOUTOR)</h2>
 <p>Projetos de Pesquisa:
-2023 Estudo de Implemento rodoviário e-sys com Power Extend Célula Combustivel etanol Área de Pesquisa: Aproveitamento da Energia
-2022 Concepção de Laboratório de Testes para certificação de colete à prova de Balas  Área de Pesquisa: Dinâmica dos Corpos Rígidos, Elásticos e Plásticos
+2023|Estudo de Implemento rodoviário e-sys com Power Extend Célula Combustivel etanol|Área de Pesquisa: Aproveitamento da Energia
+2022|Concepção de Laboratório de Testes para certificação de colete à prova de Balas |Área de Pesquisa: Dinâmica dos Corpos Rígidos, Elásticos e Plásticos
 <p>Projetos de Extensão:
 Até o momento o docente não possui.
 <p>Disciplinas Ministradas:

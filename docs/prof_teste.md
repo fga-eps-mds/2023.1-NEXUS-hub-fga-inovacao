@@ -15,7 +15,7 @@
 <h1>Professores</h1>
     
 <div class="explicacao">
-<p>Como nosso Campus possui uma série de cursos voltados para as áreas de engenharia, é muito importante para uma melhor experiência dentro da graduação que seus alunos possuam uma experiência atuando em seus campos de interesse. Atualmente, possuímos os seguintes laboratórios:
+<p>A UNB FGA tem um corpo docente com domínio sobre as disciplinas de graduação e de pós-graduação ofertadas no campus, alguns de seus membros participam de projetos de pesquisa e de extensão contribuindo para a inovação.:
 </p>
 </div>
     
@@ -27,7 +27,7 @@
 </div>
 <table>
   <tr>
-    <th>Ano/Semestre</th>
+    <th>Ano</th>
     <th>Projetos de Pesquisa</th>
     <th>Área de Pesquisa</th>
     <th>Projetos de Extensão</th>
@@ -35,7 +35,7 @@
     <th>Disciplinas Pós-Graduação</th>
   </tr>
   <tr>
-    <td>2023.1</td>
+    <td>2023</td>
     <td>Estudo de Implemento rodoviário e-sys com Power Extend Célula Combustível etanol</td>
     <td>Aproveitamento da Energia</td>
     <td></td>

@@ -24,8 +24,6 @@
 <a href="https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1281464">
 <button class="left-button">Página do Docente</button>
 </a>
-</div>
-
 <table>
   <tr>
     <th>Ano</th>

@@ -88,7 +88,7 @@
 </div>
 
 <div class="square-text">
-<h2>5. LEI</h2>
+<h2>9. LEI</h2>
 <p>O LEI representa um núcleo de pesquisa, reconhecido como Grupo de Pesquisa pelo CNPq, com a missão de produzir, desenvolver e difundir conhecimentos em Engenharias com responsabilidade social, transparência, inovação, ética e multidisciplinaridade.</p>
 <a href="https://fga.unb.br/lei">
 <button class="centered-button">Saiba mais</button>

@@ -15,7 +15,7 @@
 <h1>Professores</h1>
     
 <div class="explicacao">
-<p>A UNB FGA tem um corpo docente com domínio sobre as disciplinas de graduação e de pós-graduação ofertadas no campus, alguns de seus membros participam de projetos de pesquisa e de extensão contribuindo para a inovação.:
+<p>A UNB FGA tem um corpo docente com domínio sobre as disciplinas de graduação e de pós-graduação ofertadas no campus, e alguns de seus membros participam de projetos de pesquisa e de extensão contribuindo para a inovação.
 </p>
 </div>
     
@@ -218,5 +218,4 @@
     <td></td>
   <td>ENC0053-DESENHO TÉCNICO-60h<br>ENM0143-INTRODUÇÃO A ENGENHARIA MECÂNICA-30h<br>ENM0133-INTRODUÇÃO A ENGENHARIA MECATRÔNICA-30h</td>
   <td></td>
-H
 </table>
